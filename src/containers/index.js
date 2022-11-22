@@ -1,0 +1,1 @@
+export { default as DataTableView } from './datatableviews/DataTableViews';

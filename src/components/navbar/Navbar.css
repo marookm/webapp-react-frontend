@@ -1,7 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,700&display=swap');
 
-* {
-    padding: 0;
-    margin: 0;
-    font-family: 'Roboto', sans-serif;
+.nav-logo {
+    color: #1976d2;
 }
+
+.author-website {
+    color: #cecaca;
+}
+
+@tailwind components;
+@tailwind utilities;
